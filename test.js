@@ -1,5 +1,7 @@
-console.log("test22222");
-console.log("klooplksd");
-console.error('error----');
-
 const f = 'adada'
+
+const g = 334;
+
+console.log("test22222");
+
+
