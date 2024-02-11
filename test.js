@@ -1,7 +1,5 @@
-const f = "adada";
-
-const g = 334;
-
-console.log("test22222");
-
+const fdd = "adada";
 const ff = 444;
+const g = 334;
+console.log("ffff2");
+
